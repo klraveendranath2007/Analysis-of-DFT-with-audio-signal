@@ -76,28 +76,13 @@ plt.title("Spectrogram (dB)")
 plt.ylim(0, sr/2)
 plt.show()
 ```
-#### AUDIO USED:
-mixkit-small-crowd-laugh-and-applause-422.wav
+#### AUDIO :
+[mixkit-ending-show-audience-clapping-478.wav](https://github.com/user-attachments/files/26217885/mixkit-ending-show-audience-clapping-478.wav)
+
 ### OUTPUT: 
-```
-Top 10 Dominant Frequencies:
-
-69.98 Hz (Magnitude = 6.79e+00)
-282.62 Hz (Magnitude = 5.87e+00)
-258.40 Hz (Magnitude = 5.65e+00)
-67.29 Hz (Magnitude = 5.61e+00)
-301.46 Hz (Magnitude = 5.03e+00)
-261.09 Hz (Magnitude = 4.82e+00)
-279.93 Hz (Magnitude = 4.69e+00)
-298.77 Hz (Magnitude = 4.41e+00)
-253.02 Hz (Magnitude = 4.36e+00)
-304.16 Hz (Magnitude = 4.30e+00)
-```
-<img width="600" height="500" alt="image" src="https://github.com/user-attachments/assets/5f41caab-4b10-46b2-860a-c58395a70959" />
-
-<img width="600" height="500" alt="image" src="https://github.com/user-attachments/assets/fad20410-b785-4a8a-8e2f-d7bca2405d97" />
-
-<img width="600" height="500" alt="image" src="https://github.com/user-attachments/assets/bff5de4a-5fa5-4192-8a26-c492ca831e93" />
+<img width="586" height="291" alt="image" src="https://github.com/user-attachments/assets/e131ffc4-3375-483f-b63c-4c1a1d3d7af8" />
+<img width="586" height="285" alt="image" src="https://github.com/user-attachments/assets/12f26d8f-a000-4335-91b9-c2a8739e16bc" />
+<img width="691" height="609" alt="image" src="https://github.com/user-attachments/assets/048f2f21-e3c2-4887-83e2-aea010db3d02" />
 
 ### RESULT
 Thus, The Analysis of DFT with Audio Signal is Verified.
